@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>proiectIP</name>
+    </assembly>
+    <members>
+        <member name="T:ProiectIP.ShopForm">
+            <summary>
+            Class which does the entire process of purchasing from the store.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.ShopForm.#ctor">
+            <summary>
+            Constructor of ShopForm class;
+            </summary>
+        </member>
+        <member name="M:ProiectIP.ShopForm.SetUpData">
+            <summary>
+            Adds informations about the items and puts them in the store.
+            </summary>
+        </member>
+        <member name="F:ProiectIP.ShopForm._total">
+            <summary>
+            Adds the items from the store in the cart.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.ShopForm.btnBuy_Click(System.Object,System.EventArgs)">
+            <summary>
+            Does the purchase process of the selected items from the cart.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.ShopForm.CreateMessage(System.Collections.Generic.List{BookStoreLibrary.Item})">
+            <summary>
+            Creates the message which is sent by email to the user who bought the items.
+            </summary>
+            <param name="cartItems"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProiectIP.ShopForm.deleteFromCart_Click(System.Object,System.EventArgs)">
+            <summary>
+            Delete items from cart.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.ShopForm.SendEmail(System.String,System.String)">
+            <summary>
+            Sends the confirmation mail to the user's email adress.
+            </summary>
+            <param name="confirmation">Continutul emeilului</param>
+            <param name="email">Emailul destinatarului</param>
+        </member>
+        <member name="M:ProiectIP.ShopForm.btnExit_Click(System.Object,System.EventArgs)">
+            <summary>
+            Closes the application.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.ShopForm.BookStore_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            Closes the application.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ProiectIP.ShopForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.ShopForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProiectIP.ShopForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ProiectIP.Cript">
+            <summary>
+            Cripts the user's password.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.Cript.SHA256hash(System.String)">
+            <summary>
+            Cripts the user's password.
+            </summary>
+            <param name="pass">String to be cripted</param>
+            <returns></returns>
+        </member>
+        <member name="T:ProiectIP.HomeForm">
+            <summary>
+            Creates shop's home page.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.HomeForm.#ctor">
+            <summary>
+            Constructor of HomeForm class;
+            </summary>
+        </member>
+        <member name="F:ProiectIP.HomeForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.HomeForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProiectIP.HomeForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ProiectIP.LoginForm">
+            <summary>
+             Creates the Login window to log in to an account to access the shop.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.LoginForm.#ctor">
+            <summary>
+            Constructor of LoginForm class;
+            </summary>
+        </member>
+        <member name="M:ProiectIP.LoginForm.MakePwAsterisk">
+            <summary>
+            Changes password characters when typing to "*", so the characters are not visible.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.LoginForm.btnLogin_Click(System.Object,System.EventArgs)">
+            <summary>
+            Checks if username and password are valid and then logs to the shop.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.LoginForm.btnExit_Click(System.Object,System.EventArgs)">
+            <summary>
+            Closes the application.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.LoginForm.btnRegister_Click(System.Object,System.EventArgs)">
+            <summary>
+            Opens the registration formular.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.LoginForm.loginForm_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            Closes the application.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.LoginForm.DisplayEmail">
+            <summary>
+            Gets user's email from database.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.LoginForm.DisplayName">
+            <summary>
+            Gets user's first name from database.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.LoginForm.DisplayAdress">
+            <summary>
+            Gets user's adress from database.
+            </summary>
+        </member>
+        <member name="F:ProiectIP.LoginForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.LoginForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProiectIP.LoginForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ProiectIP.GlobalVariables">
+            <summary>
+            Creates global variables.
+            </summary>
+        </member>
+        <member name="F:ProiectIP.GlobalVariables.email">
+            <summary>
+            User's email adress;
+            </summary>
+        </member>
+        <member name="F:ProiectIP.GlobalVariables.name">
+            <summary>
+            User's name;
+            </summary>
+        </member>
+        <member name="F:ProiectIP.GlobalVariables.adress">
+            <summary>
+            User's adress;
+            </summary>
+        </member>
+        <member name="T:ProiectIP.MainForm">
+            <summary>
+            The main form of the shop, contains all the panels and menu buttons.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.MainForm.#ctor">
+            <summary>
+            Constructor of MainForm class;
+            </summary>
+        </member>
+        <member name="M:ProiectIP.MainForm.btnHome_Click(System.Object,System.EventArgs)">
+            <summary>
+            Shows Home page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.MainForm.btnShop_Click(System.Object,System.EventArgs)">
+            <summary>
+            Shows shopping page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.MainForm.ModifyMainPanel(System.Windows.Forms.Form)">
+            <summary>
+            Changes the view whenever a menu button containing a page is clicked.
+            </summary>
+            <param name="newForm">Form which will be displayed</param>
+        </member>
+        <member name="M:ProiectIP.MainForm.MainForm_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            Closes the application.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.MainForm.btnLogOut_Click(System.Object,System.EventArgs)">
+            <summary>
+            Exits shop and go back to login window.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ProiectIP.MainForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.MainForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProiectIP.MainForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ProiectIP.Program">
+            <summary>
+            Class which contains the main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ProiectIP.RegisterForm">
+            <summary>
+            Creates the register formular.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.RegisterForm.#ctor">
+            <summary>
+            Constructor of RegisterForm class;
+            </summary>
+        </member>
+        <member name="M:ProiectIP.RegisterForm.btnSubmit_Click(System.Object,System.EventArgs)">
+            <summary>
+            Saves the registration data of the new user.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProiectIP.RegisterForm.Clear">
+            <summary>
+            Clears all fields from registration formular.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.RegisterForm.RegisterForm_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+            <summary>
+            Closes the registration form and goes back to login window.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ProiectIP.RegisterForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ProiectIP.RegisterForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ProiectIP.RegisterForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ProiectIP.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ProiectIP.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ProiectIP.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

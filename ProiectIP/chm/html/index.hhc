@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BookStoreLibrary"><param name="Local" value="namespace_book_store_library.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP"><param name="Local" value="namespace_proiect_i_p.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BookStoreLibrary"><param name="Local" value="namespace_book_store_library.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Item"><param name="Local" value="class_book_store_library_1_1_item.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="bookAuthor"><param name="Local" value="class_book_store_library_1_1_item.html#a8242560fca78f92a9f2d604d71a393a3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="bookDescription"><param name="Local" value="class_book_store_library_1_1_item.html#af880951c294806c2d997aecd79b482a2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="bookName"><param name="Local" value="class_book_store_library_1_1_item.html#a7398ce535790df4ceac2ab1c9fae78e0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="displayItemInCart"><param name="Local" value="class_book_store_library_1_1_item.html#ac2cec7f24a90074134b5502b64ea9185"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="displayItemInStore"><param name="Local" value="class_book_store_library_1_1_item.html#a91f45906bd226f683a003836061c26db"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="isSold"><param name="Local" value="class_book_store_library_1_1_item.html#a15aa97639610192f9e07a32769dcf1c1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="owner"><param name="Local" value="class_book_store_library_1_1_item.html#a4757a20630064ff0ea68f296be850b1d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="price"><param name="Local" value="class_book_store_library_1_1_item.html#a35bb140edede9170c1fdbefa7ca6ff8d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="quantity"><param name="Local" value="class_book_store_library_1_1_item.html#a6d9296331cbb77efd538c1eed4d06b87"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Seller"><param name="Local" value="class_book_store_library_1_1_seller.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sellerCommission"><param name="Local" value="class_book_store_library_1_1_seller.html#a05141712394f8e1acb57e3ba54b5623a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sellerName"><param name="Local" value="class_book_store_library_1_1_seller.html#af87913694cc4bec26cddcf3e937058ba"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Store"><param name="Local" value="class_book_store_library_1_1_store.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Store"><param name="Local" value="class_book_store_library_1_1_store.html#aadc88e2d6aa1cb3909e36b2981b8943c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="items"><param name="Local" value="class_book_store_library_1_1_store.html#a09624e231090b9aa6d98476cad2c9cc7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sellers"><param name="Local" value="class_book_store_library_1_1_store.html#a7ee3dffc9ce7f35a103d09ff64232ee7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="storeName"><param name="Local" value="class_book_store_library_1_1_store.html#ad925598688756bccde5bbbea29eda7b5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP"><param name="Local" value="namespace_proiect_i_p.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Cript"><param name="Local" value="class_proiect_i_p_1_1_cript.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HomeForm"><param name="Local" value="class_proiect_i_p_1_1_home_form.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HomeForm"><param name="Local" value="class_proiect_i_p_1_1_home_form.html#a43318b15f2cb4e3699c8f86624e8637c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_proiect_i_p_1_1_home_form.html#a0865836d43c2b7ec843210500d3a5958"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LoginForm"><param name="Local" value="class_proiect_i_p_1_1_login_form.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LoginForm"><param name="Local" value="class_proiect_i_p_1_1_login_form.html#a6ede2348ac6b8f8af997be62ea3fda9e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DisplayAdress"><param name="Local" value="class_proiect_i_p_1_1_login_form.html#ae2ed518ce22cd5ef5bee26c8349bdd29"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DisplayEmail"><param name="Local" value="class_proiect_i_p_1_1_login_form.html#a1bd3e16f3034fff1347aa400a7f1eeb2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DisplayName"><param name="Local" value="class_proiect_i_p_1_1_login_form.html#a951a19fdbf43ec34775823bee4c3b03b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_proiect_i_p_1_1_login_form.html#a8b0013f7eee596c80288383af1397968"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="usernameTextBox"><param name="Local" value="class_proiect_i_p_1_1_login_form.html#ae7e14703742bd158889964374fd9e66f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_proiect_i_p_1_1_main_form.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_proiect_i_p_1_1_main_form.html#a79e82a784fda911562d439723c1f352c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_proiect_i_p_1_1_main_form.html#ace70fabde126a0ad507a48084817e261"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="RegisterForm"><param name="Local" value="class_proiect_i_p_1_1_register_form.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RegisterForm"><param name="Local" value="class_proiect_i_p_1_1_register_form.html#accab8ee9b55037a1b4fb9f3473c3daa7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_proiect_i_p_1_1_register_form.html#a0bbe8b917c2c07fc73b1e5cb23bbe4b0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ShopForm"><param name="Local" value="class_proiect_i_p_1_1_shop_form.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ShopForm"><param name="Local" value="class_proiect_i_p_1_1_shop_form.html#a9131526bf8a866093e53d456daad5c65"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateMessage"><param name="Local" value="class_proiect_i_p_1_1_shop_form.html#a6f40a96e40e3adb51ab58769c1e18109"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_proiect_i_p_1_1_shop_form.html#ad9281e141dee91cd6136bcd0a553f44d"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP.Cript"><param name="Local" value="class_proiect_i_p_1_1_cript.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Form"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP.HomeForm"><param name="Local" value="class_proiect_i_p_1_1_home_form.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP.LoginForm"><param name="Local" value="class_proiect_i_p_1_1_login_form.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP.MainForm"><param name="Local" value="class_proiect_i_p_1_1_main_form.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP.RegisterForm"><param name="Local" value="class_proiect_i_p_1_1_register_form.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProiectIP.ShopForm"><param name="Local" value="class_proiect_i_p_1_1_shop_form.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BookStoreLibrary.Item"><param name="Local" value="class_book_store_library_1_1_item.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BookStoreLibrary.Seller"><param name="Local" value="class_book_store_library_1_1_seller.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BookStoreLibrary.Store"><param name="Local" value="class_book_store_library_1_1_store.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,71 @@
+[OPTIONS]
+Compiled file=chmhelp.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=The Book Deal
+
+[WINDOWS]
+main="The Book Deal","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+namespace_book_store_library.html
+class_book_store_library_1_1_item.html
+class_book_store_library_1_1_item-members.html
+class_book_store_library_1_1_seller.html
+class_book_store_library_1_1_seller-members.html
+class_book_store_library_1_1_store.html
+class_book_store_library_1_1_store-members.html
+namespace_proiect_i_p.html
+class_proiect_i_p_1_1_cript.html
+class_proiect_i_p_1_1_cript-members.html
+class_proiect_i_p_1_1_home_form.html
+class_proiect_i_p_1_1_home_form-members.html
+class_proiect_i_p_1_1_login_form.html
+class_proiect_i_p_1_1_login_form-members.html
+class_proiect_i_p_1_1_main_form.html
+class_proiect_i_p_1_1_main_form-members.html
+class_proiect_i_p_1_1_register_form.html
+class_proiect_i_p_1_1_register_form-members.html
+class_proiect_i_p_1_1_shop_form.html
+class_proiect_i_p_1_1_shop_form-members.html
+dir_45f7a1de862277dbfb7acb8093e48065.html
+dir_971858e83857477dbeed18f19de5f020.html
+dir_17e6e387e3b2807e36f65d40a1a5c21e.html
+dir_41a107c510d8e4d3b62f98d98fa83695.html
+dir_093ab46ace0e4440f6517ba1093f8692.html
+dir_3bb9840bc5d9332016ac1b942d6e1fbe.html
+dir_58e4055855ae9602b932ce8482214659.html
+dir_4f4daeac062a06c2052ab38cff6cdd1c.html
+dir_a1e5da0e1a1d935368e6cc0bdcc11d18.html
+dir_e3077b04f357d208babc5b15c7bc5078.html
+index.html
+namespaces.html
+annotated.html
+classes.html
+hierarchy.html
+functions.html
+functions_func.html
+functions_prop.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
+class_proiect_i_p_1_1_home_form.png
+class_proiect_i_p_1_1_login_form.png
+class_proiect_i_p_1_1_main_form.png
+class_proiect_i_p_1_1_register_form.png
+class_proiect_i_p_1_1_shop_form.png

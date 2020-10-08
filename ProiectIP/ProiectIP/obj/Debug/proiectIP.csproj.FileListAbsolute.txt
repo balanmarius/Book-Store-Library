@@ -1,0 +1,68 @@
+C:\Users\Marius\source\repos\proiectIP\proiectIP\bin\Debug\proiectIP.exe.config
+C:\Users\Marius\source\repos\proiectIP\proiectIP\bin\Debug\proiectIP.exe
+C:\Users\Marius\source\repos\proiectIP\proiectIP\bin\Debug\proiectIP.pdb
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.Properties.Resources.resources
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.csproj.GenerateResource.cache
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.exe
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.pdb
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.MainForm.resources
+C:\Users\Marius\source\repos\proiectIP\proiectIP\bin\Debug\BookStoreLibrary.dll
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.csproj.CopyComplete
+C:\Users\Marius\source\repos\proiectIP\proiectIP\bin\Debug\proiectIP.xml
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\proiectIP.HomeForm.resources
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\ProiectIP.ShopForm.resources
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\ProiectIP.LoginForm.resources
+C:\Users\Marius\source\repos\proiectIP\proiectIP\obj\Debug\ProiectIP.RegisterForm.resources
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\bin\Debug\proiectIP.exe.config
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\bin\Debug\proiectIP.xml
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\bin\Debug\proiectIP.exe
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\bin\Debug\proiectIP.pdb
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\bin\Debug\BookStoreLibrary.dll
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.ShopForm.resources
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.HomeForm.resources
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.LoginForm.resources
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.MainForm.resources
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\proiectIP.Properties.Resources.resources
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.RegisterForm.resources
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\proiectIP.exe
+C:\Users\Marius\source\repos\IP\proiectIP\proiectIP\obj\Debug\proiectIP.pdb
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\bin\Debug\proiectIP.exe.config
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\bin\Debug\ProiectIP.xml
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\bin\Debug\proiectIP.exe
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\bin\Debug\proiectIP.pdb
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\bin\Debug\BookStoreLibrary.dll
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.ShopForm.resources
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.HomeForm.resources
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.LoginForm.resources
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.MainForm.resources
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\proiectIP.Properties.Resources.resources
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.RegisterForm.resources
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\proiectIP.exe
+C:\Users\Marius\Projects\PROIECT IP\ProiectIP\proiectIP\obj\Debug\proiectIP.pdb
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\bin\Debug\proiectIP.exe.config
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\bin\Debug\ProiectIP.xml
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\bin\Debug\proiectIP.exe
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\bin\Debug\proiectIP.pdb
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\bin\Debug\BookStoreLibrary.dll
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.ShopForm.resources
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.HomeForm.resources
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.LoginForm.resources
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.MainForm.resources
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\proiectIP.Properties.Resources.resources
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.RegisterForm.resources
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\ProiectIP.csproj.CopyComplete
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\proiectIP.exe
+E:\Facultate\Projects\The Book Deal\ProiectIP\proiectIP\obj\Debug\proiectIP.pdb
